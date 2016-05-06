@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologicursus115migngoog/patrologicursus115migngoog_0009.png"; bbox 0 0 3967 6217; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 895 2035 2924 2247">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 895 2035 2924 2247">
+     <span class='ocr_line' id='line_1_1' title="bbox 895 2035 2924 2247; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 895 2035 2924 2247; x_wconf 85' lang='lat' dir='ltr'><strong>HEXAPLORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1368 2495 2459 2608">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1368 2495 2459 2608">
+     <span class='ocr_line' id='line_1_2' title="bbox 1368 2495 2459 2608; baseline -0.004 -17"><span class='ocrx_word' id='word_1_2' title='bbox 1368 2497 1651 2608; x_wconf 83' lang='lat' dir='ltr'>QUAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1757 2495 2459 2591; x_wconf 82' lang='lat' dir='ltr'>SUPERSUNT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1535 2818 2260 2857">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1535 2818 2260 2857">
+     <span class='ocr_line' id='line_1_3' title="bbox 1535 2818 2260 2857; baseline 0 3360"><span class='ocrx_word' id='word_1_4' title='bbox 1535 2818 2260 2857; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 954 3086 3100 3289">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 954 3086 3100 3289">
+     <span class='ocr_line' id='line_1_4' title="bbox 954 3086 3100 3289; baseline 0 -41"><span class='ocrx_word' id='word_1_5' title='bbox 954 3086 1515 3251; x_wconf 76' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_6' title='bbox 1645 3091 2828 3250; x_wconf 82' lang='lat' dir='ltr'><strong>EZECHIELIS.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 3078 3277 3100 3289; x_wconf 50' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
